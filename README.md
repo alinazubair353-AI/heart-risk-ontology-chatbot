@@ -4,8 +4,10 @@ A chatbot that explains cardiovascular risk factors from lab values using an **O
 **No LLM, no cloud, no API keys.** Every answer comes from rules, explanations and citations stored in the ontology, so the bot cannot hallucinate.
 
 > Educational project (KRL course). **Not a medical device and not clinically validated.** It does not diagnose and does not replace a doctor.
+<img width="1365" height="732" alt="Screenshot 2026-11-22 140825" src="https://github.com/user-attachments/assets/388d6d40-47b2-4b9b-b56b-e1b3de34717e" />
 
-![demo screenshot](docs/protege_inferred_types.png)
+<img width="1365" height="693" alt="Screenshot 2026-11-22 140658" src="https://github.com/user-attachments/assets/75d965bf-19b8-42c1-8382-83d4ad44f21c" />
+<img width="1365" height="673" alt="Screenshot 2026-11-22 135935" src="https://github.com/user-attachments/assets/afbd6eb8-15c2-469f-bbcb-c7b379d27745" />
 
 ## What it does
 
